@@ -50,7 +50,6 @@ This site is built with:
 - **Tailwind CSS**
 - **MDX** for blog and glossary content
 - **Vercel** for deployment
-- **140+ static pages** including 100 glossary terms
 
 ---
 
